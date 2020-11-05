@@ -1,0 +1,26 @@
+body {
+    background: aqua;
+}
+h1 {
+    text-align: center;
+    color: blue;
+    font-family: monospace;
+    background-image: url("Backtrack-Wallpaper-linux-35141696-1280-1024.jpg");
+}
+h2 {
+    font-family: monospace;
+    background: aliceblue;
+    color: blue;
+    width: 25%;
+}
+ul {
+    background: aqua;
+    width: 25%;
+}
+img {
+    float: right;
+    background: azure;
+}
+
+
+
